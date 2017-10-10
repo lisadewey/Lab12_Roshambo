@@ -1,0 +1,9 @@
+C:\Users\lmdew\Desktop\Projects\Lab12_R_P_S\Lab12_R_P_S\obj\Debug\Lab12_R_P_S.csprojResolveAssemblyReference.cache
+C:\Users\lmdew\Desktop\Projects\Lab12_R_P_S\Lab12_R_P_S\obj\Debug\Lab12_R_P_S.csproj.CoreCompileInputs.cache
+C:\Users\lmdew\Desktop\Projects\Lab12_R_P_S\Lab12_R_P_S\bin\Debug\Lab12_R_P_S.exe.config
+C:\Users\lmdew\Desktop\Projects\Lab12_R_P_S\Lab12_R_P_S\bin\Debug\Lab12_R_P_S.exe
+C:\Users\lmdew\Desktop\Projects\Lab12_R_P_S\Lab12_R_P_S\bin\Debug\Lab12_R_P_S.pdb
+C:\Users\lmdew\Desktop\Projects\Lab12_R_P_S\Lab12_R_P_S\bin\Debug\MyLibrary.dll
+C:\Users\lmdew\Desktop\Projects\Lab12_R_P_S\Lab12_R_P_S\bin\Debug\MyLibrary.pdb
+C:\Users\lmdew\Desktop\Projects\Lab12_R_P_S\Lab12_R_P_S\obj\Debug\Lab12_R_P_S.exe
+C:\Users\lmdew\Desktop\Projects\Lab12_R_P_S\Lab12_R_P_S\obj\Debug\Lab12_R_P_S.pdb
