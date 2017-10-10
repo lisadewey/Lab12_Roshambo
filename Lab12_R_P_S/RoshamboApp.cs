@@ -42,6 +42,7 @@ namespace Lab12_R_P_S
 					string str = "Would you like to play against the ";
 					str += "Valiant Vegans or the Callous Carnivores? (vv/cc): ";
 					string team = InputHandlers.GetString(str);
+					team = team.ToLower();
 
 					if (team != "vv" && team != "cc")
 					{
