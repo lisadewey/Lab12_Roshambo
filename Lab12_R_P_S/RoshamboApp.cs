@@ -91,8 +91,6 @@ namespace Lab12_R_P_S
 				catch(Exception ex)
 				{
 					Console.WriteLine(ex.Message);
-					Console.WriteLine("Instantiation of a new class, might cause an out of memory error...");
-					Console.WriteLine("Because I have to many open visual studio projects and chrome tabs.");
 				}
 
 				again = InputHandlers.Continue("Play again? (y/n): ");
